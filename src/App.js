@@ -60,10 +60,6 @@ MyPOSTAPI=()=>{
       return(
       <div>
 
-      <button onClick={this.MyPOSTAPI}>
-      My Post API
-      </button>
-
       <button onClick={this.MyGETAPI}>
       My Get API
       </button>
